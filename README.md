@@ -100,6 +100,21 @@ npm start       # Start the server
 npm run dev     # Start with nodemon
 npm test        # Run test cases
 ```
+## 🛠 Tech Stack
+
+- **Programming Language**: JavaScript (Node.js)
+- **Runtime**: Node.js
+- **Framework**: Express.js
+- **Database**: MongoDB / Mongoose (or MySQL / Sequelize)
+- **Authentication**: JSON Web Token (JWT)
+- **Environment Management**: dotenv
+- **Testing**: Jest / Mocha (optional)
+
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+![Express](https://img.shields.io/badge/Express.js-Framework-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## 👥 Contributors
 ![@radytrainer](https://contrib.rocks/image?repo=radytrainer/demo-readme-file)
