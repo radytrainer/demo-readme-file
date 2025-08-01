@@ -44,3 +44,27 @@ normal text
 3. List 3
     1. sub 1
     2. sub 2
+
+## Image 
+![Dashboard](dashboard.png)
+
+## Link 
+CSS Framework [Bootstrap](https://getbootstrap.com/)
+
+## Singlie line code
+`print("hello world")`
+
+## multiple line 
+```python
+for i in range(10):
+    print(i)
+```
+```html
+<h1>Hello</h1>
+<p> Text </p>
+```
+```bash
+npm i express
+pip install cv2
+composer install
+```
