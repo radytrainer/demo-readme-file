@@ -71,3 +71,10 @@ composer install
 
 ## Button 
 <a href="https://getbootstrap.com" target="_blank">Bootstrap</a>
+
+## Badge
+
+[![app](https://img.shields.io/badge/Learning_Markdown-tutorial-orange)](https://getbootstrap.com)
+
+## Contributor
+- [@radytrainer](https://github.com/radytrainer) - Trainer
